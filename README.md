@@ -30,7 +30,7 @@ Obtain the kmean clustring for 2 classes.
 
 ### Step 5
 
-Pretict the cluster group of Applicant Income and Loanamount.
+Pretict the cluster group of Applicant Income and Loan amount.
 
 ## Program:
 ```
